@@ -1,4 +1,8 @@
 streamlit
-matplotlib
-numpy
 pandas
+numpy
+matplotlib
+seaborn
+Pillow
+tensorflow
+plotly
